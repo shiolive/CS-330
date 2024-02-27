@@ -1,0 +1,11 @@
+﻿  C:\Users\shian\source\repos\CS-330 Assignment\CS-330 Assignment\Shaders\Basic_Light.frag
+  C:\Users\shian\source\repos\CS-330 Assignment\CS-330 Assignment\Shaders\Basic_Light.vert
+  C:\Users\shian\source\repos\CS-330 Assignment\CS-330 Assignment\Shaders\Basic_Shader.frag
+  C:\Users\shian\source\repos\CS-330 Assignment\CS-330 Assignment\Shaders\Basic_Shader.vert
+  C:\Users\shian\source\repos\CS-330 Assignment\CS-330 Assignment\Shaders\Light_Cube_shader.frag
+  C:\Users\shian\source\repos\CS-330 Assignment\CS-330 Assignment\Shaders\Light_Cube_shader.vert
+  6 File(s) copied
+  Application.cpp
+C:\Users\shian\source\repos\CS-330 Assignment\CS-330 Assignment\Application.cpp(37,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shian\source\repos\CS-330 Assignment\CS-330 Assignment\Application.cpp(424,21): warning C4018: '<': signed/unsigned mismatch
+  CS-330 Assignment.vcxproj -> C:\Users\shian\source\repos\CS-330 Assignment\Debug\CS-330 Assignment.exe
